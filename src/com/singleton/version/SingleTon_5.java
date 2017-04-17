@@ -15,6 +15,7 @@ public class SingleTon_5 {
 	 */
 
 	private static class SingleTonInstance {
+		//这里如果抛出异常，则会导致得不到 快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快快的顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶
 		private static SingleTon_5 INSTANCE = new SingleTon_5();
 	}
 	
